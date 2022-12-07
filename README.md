@@ -20,7 +20,8 @@ Comment/weibo comment/Data cleaning for Weibo comments/clean.py
 
 word frequency for political expression:
 
-Visualisation Code/Country & region, political figure word frequency/Country & region, political figure .py
+Visualisation Code/Country & region, political figure word frequency/Country & region, political figure.py
+
 
 Wordcloud: 
 
@@ -29,10 +30,12 @@ Visualisation Code/Word cloud/Wordcloud-Taiwan.py
 
 Word frequency of Taiwan Strait: 
 
-In Visualisation Code/Word frequency
+Visualisation Code/Word frequency/Word frequency-XXXX-XXXX.py
+
+
 sentiment analysis:
 
-hyperparameters.py
+Visualisation Code/Sentiment analysis/sentimentMainland(sentimentTaiwan)/hyperparameters.py
 
 # Code Reference：
 
