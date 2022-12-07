@@ -1,4 +1,7 @@
 # Group8_COM5507-SOCIAL-MEDIA-DATA
+
+this project is about data acquisition and processing of weibo in mainland China and PTT in taiwan
+
 Code Reference
 
 Weibo post
