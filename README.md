@@ -37,6 +37,9 @@ sentiment analysis:
 
 Visualisation Code/Sentiment analysis/sentimentMainland(sentimentTaiwan)/hyperparameters.py
 
+# data sample
+can be seen in each original codes fold
+
 # Code Reference：
 
 Weibo post
