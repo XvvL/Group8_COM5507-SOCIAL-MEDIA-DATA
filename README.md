@@ -1,6 +1,6 @@
-# Group8_COM5507-SOCIAL-MEDIA-DATA
+# Group8_COM5507
 
-this project is about data acquisition and processing of weibo in mainland China and PTT in taiwan
+this project is about data acquisition and processing of weibo in mainland China and PTT in taiwan. The topic is Public opinion of Russia-Ukraine War A Comparative Analysis of Social Media in Mainland China and Taiwan
 
 Code Reference
 
