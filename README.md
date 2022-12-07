@@ -2,7 +2,13 @@
 
 this project is about data acquisition and processing of weibo in mainland China and PTT in taiwan. The topic is Public opinion of Russia-Ukraine War A Comparative Analysis of Social Media in Mainland China and Taiwan
 
-Code Reference
+Code For data collection:
+Topic/PTT topic/PTT_UKRAINE_post.ipynb
+Topic/Weibo topic/PTT_UKRAINE_post.ipynb
+
+
+
+Code Reference：
 
 Weibo post
 https://github.com/dataabc/weibo-search
